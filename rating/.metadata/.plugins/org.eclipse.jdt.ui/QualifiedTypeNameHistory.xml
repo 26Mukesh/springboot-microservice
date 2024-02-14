@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.rating.repository.RatingRepository"/>
+    <fullyQualifiedTypeName name="com.rating.service.RatingService"/>
+    <fullyQualifiedTypeName name="com.rating.entities.Rating"/>
+</qualifiedTypeNameHistroy>

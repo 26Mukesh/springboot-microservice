@@ -1,0 +1,9 @@
+eureka:
+  instance:
+    hostname: localhost
+    lease-expiration-duration-in-seconds: 2
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+server:
+  port: 8761

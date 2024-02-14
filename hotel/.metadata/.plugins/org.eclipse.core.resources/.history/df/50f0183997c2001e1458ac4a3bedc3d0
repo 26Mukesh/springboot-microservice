@@ -1,0 +1,5 @@
+package com.hotel.service.repositories;
+
+public interface HotelRepository {
+
+}

@@ -1,0 +1,6 @@
+spring:
+port: 8083
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: rating_service

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="com.hotel.service.repositories.HotelRepository"/>
+    <fullyQualifiedTypeName name="com.hotel.service.exceptions.ResourceNotFoundException"/>
+    <fullyQualifiedTypeName name="com.hotel.service.services.HotelService"/>
+    <fullyQualifiedTypeName name="com.hotel.service.entities.Hotel"/>
+</qualifiedTypeNameHistroy>

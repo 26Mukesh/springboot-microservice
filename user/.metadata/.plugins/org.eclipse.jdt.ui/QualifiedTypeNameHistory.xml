@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.user.service.repositories.UserRepository"/>
+    <fullyQualifiedTypeName name="com.user.service.exceptions.ResourceNotFoundException"/>
+    <fullyQualifiedTypeName name="com.user.service.payload.ApiResponse"/>
+    <fullyQualifiedTypeName name="com.user.service.services.UserService"/>
+    <fullyQualifiedTypeName name="com.user.service.entities.User"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.user.service.entities.Rating"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+</qualifiedTypeNameHistroy>
